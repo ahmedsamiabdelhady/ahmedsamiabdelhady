@@ -1,12 +1,7 @@
 <h1 align="center"><b>Hi , I'm Ahmed Sami </b><img src="https://media2.giphy.com/media/1r8YvFB47nAsAy36mp/giphy_s.gif?cid=ecf05e47yug79lmxqtnvmspk63kgv8waa3fxwlehn2msqlq1&ep=v1_stickers_search&rid=giphy_s.gif&ct=s" width="35"></h1>
 <h3 align="center">A Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsamiabdelhady
-/
-ahmedsamiabdelhady&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamiabdelhady
-/
-ahmedsamiabdelhady" /> </p>
-
+</p>
 
 ## <picture><img src = "https://media2.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy_s.gif?cid=ecf05e47gylpnahb79rs731faew5ctx9ayc1uk90q7u8k16s&ep=v1_stickers_search&rid=giphy_s.gif&ct=s" width = 50px></picture> **About me**
 
@@ -19,9 +14,13 @@ ahmedsamiabdelhady" /> </p>
 - 📫 How to reach me **a.sami.abdelhady@gmail.com**
 
 - 📄 Know about my experiences [AhmedSamiResume](https://drive.google.com/file/d/1ShOzjWo2bDkvUMEOYUbwDjhZFufpHHww/view?usp=drive_link)
-
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+</p>
+<br>
+</p>
+<br>
+</p>
+<br>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝</h3>
 <p align="center">
 <a href="https://twitter.com/ahmad_sami111" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedsamiabdelhady" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/a-sami-abdelhady/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedsamiabdelhady" height="30" width="40" /></a>
@@ -36,7 +35,7 @@ ahmedsamiabdelhady" /> </p>
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/3omarbadr/3omarbadr/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
