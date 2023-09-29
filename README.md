@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Ahmed Sami </b><img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="35"></h1>
 <h3 align="center">A Software Developer</h3>
 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsamiabdelhady&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamiabdelhady" /> </p>
 
 ## <picture><img src = "https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width = 50px></picture> **About me**
 
