@@ -1,3 +1,6 @@
+<style>
+	.gif {float: right;}
+</style>
 <h1 align="center"><b>Hi , I'm Ahmed Sami </b><img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="35"></h1>
 <h3 align="center">A Software Developer</h3>
 
@@ -5,7 +8,7 @@
 
 ## <picture><img src = "https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.svg" width = 250px></picture>
+<picture> <img calss="gif" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.svg" width = 250px></picture>
 
 <br>
 
