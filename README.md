@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width = 50px></picture> **About me**
 
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.svg" width = 175px>
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.svg" width = 250px>
 
 - 🌱 I’m currently learning **Python, Flask, HTML, CSS**
 
