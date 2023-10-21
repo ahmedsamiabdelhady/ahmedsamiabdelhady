@@ -1,6 +1,3 @@
-<style>
-	.gif {float: right;}
-</style>
 <h1 align="center"><b>Hi , I'm Ahmed Sami </b><img src="https://media.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.gif" width="35"></h1>
 <h3 align="center">A Software Developer</h3>
 
@@ -8,18 +5,15 @@
 
 ## <picture><img src = "https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width = 50px></picture> **About me**
 
-<img calss="gif" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.svg" width = 250px>
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/programming.svg" width = 250px>
 
 - 🌱 I’m currently learning **Python, Flask, HTML, CSS**
 
 - 📫 How to reach me **a.sami.abdelhady@gmail.com**
 
 - 📄 Know about my experiences [AhmedSamiResume](https://drive.google.com/file/d/1ShOzjWo2bDkvUMEOYUbwDjhZFufpHHww/view?usp=drive_link)
-</p>
 <br>
-</p>
 <br>
-</p>
 <br>
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝</h3>
 <p align="center">
